@@ -1,0 +1,1 @@
+Phase 1: Record audio in the browser and display a live waveform from microphone input - completed
