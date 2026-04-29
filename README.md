@@ -1,4 +1,4 @@
-# TaDaDum
+# Sound to beats generator
 
 A web application for capturing and visualizing rhythm in real-time using the browser's microphone.
 
